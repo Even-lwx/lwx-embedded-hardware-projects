@@ -1,0 +1,13 @@
+# The aggregate repository tracks the nine project repositories as submodules.
+*
+!.gitignore
+!README.md
+!AD7682/
+!Triple 1S Battery Charger/
+!QI5W-R-Ver2.0/
+!ADS124S08_RTD_Acq/
+!STM32F103RCT6最小系统板/
+!HookWeightModule/
+!QiRec-5-T/
+!QiRec-5-R/
+!UML244R/

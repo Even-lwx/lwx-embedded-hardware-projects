@@ -1,0 +1,27 @@
+[submodule "AD7682"]
+	path = AD7682
+	url = git@github.com:Even-lwx/AD7682.git
+[submodule "Triple 1S Battery Charger"]
+	path = Triple 1S Battery Charger
+	url = git@github.com:Even-lwx/Triple-1S-Battery-Charger.git
+[submodule "QI5W-R-Ver2.0"]
+	path = QI5W-R-Ver2.0
+	url = git@github.com:Even-lwx/QI5W-R-Ver2.0.git
+[submodule "ADS124S08_RTD_Acq"]
+	path = ADS124S08_RTD_Acq
+	url = git@github.com:Even-lwx/ADS124S08_RTD_Acq.git
+[submodule "STM32F103RCT6最小系统板"]
+	path = STM32F103RCT6最小系统板
+	url = git@github.com:Even-lwx/STM32F103RCT6-Minimal-System-Board.git
+[submodule "HookWeightModule"]
+	path = HookWeightModule
+	url = git@github.com:Even-lwx/HookWeightModule.git
+[submodule "QiRec-5-T"]
+	path = QiRec-5-T
+	url = git@github.com:Even-lwx/QiRec-5-T.git
+[submodule "QiRec-5-R"]
+	path = QiRec-5-R
+	url = git@github.com:Even-lwx/QiRec-5-R.git
+[submodule "UML244R"]
+	path = UML244R
+	url = git@github.com:Even-lwx/UML244R.git

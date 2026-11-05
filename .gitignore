@@ -1,4 +1,4 @@
-# The aggregate repository tracks the nine project repositories as submodules.
+# 总仓库通过子模块记录九个工程仓库。
 *
 !.gitignore
 !README.md

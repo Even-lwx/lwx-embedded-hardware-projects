@@ -11,3 +11,20 @@
 !QiRec-5-T/
 !QiRec-5-R/
 !UML244R/
+
+# 工程清单、独立硬件源文件和维护工具纳入总仓库
+!.gitmodules
+!嵌入式程序与PCB工程清单.xlsx
+!INA229功率计.SchDoc
+!tools/
+!tools/**/
+!tools/**/*.md
+!tools/**/*.mjs
+!tools/**/*.py
+!tools/**/*.ps1
+
+# 检查截图、机器路径日志和依赖链接留在本机
+tools/**/node_modules/
+tools/**/*.png
+tools/**/*.ndjson
+tools/**/*.json
